@@ -1,4 +1,4 @@
-### Hi ,  I'm Rama 👋
+### Hi 👋
 
 <!--
 **tetsuyaoy/tetsuyaoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,24 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![header][header-url]][header-link]
 
-# Project Name
-[![Project Version][version-image]][version-url]
-[![Frontend][Frontend-image]][Frontend-url]
-[![Backend][Backend-image]][Backend-url]
 
-> Short blurb about your project idea.
 
-One or two paragraphs about your project and what it does.
 
----
-## Author
-
-**Your name** 
-* *Initial work* - [repository-name][repository-url] (Repository space)
-* *Released on* [cloud-provider][cloud-provider-url] (Cloud provider)
-* *My professional profile on* [LinkedIn][linkedin-url]
+**I'm Rama** 
+* *I'm a Programmer who has entered the IT world in 2019. it startes with me entering college. I have studied at "Praktisi Politeknik Bisnis Digital Bandung" majoring in D3 Manajement Informatika. Graduated in 2022 with IPK 3.60* 
 
 ## Showcase
 
