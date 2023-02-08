@@ -20,25 +20,25 @@ Here are some ideas to get you started:
 
 
 **I'm Rama** 
-* *I'm a Programmer who has entered the IT world in 2019. it startes with me entering college. I have studied at "Praktisi Politeknik Bisnis Digital Bandung" majoring in D3 Manajement Informatika. Graduated in 2022 with IPK 3.60* 
+*I'm a Programmer who has entered the IT world in 2019. it startes with me entering college. I have studied at "Praktisi Politeknik Bisnis Digital Bandung" majoring in D3 Manajement Informatika. Graduated in 2022 with IPK 3.60* 
 
-## Showcase
+## SKILL
 
-This project was designed to demonstrate:
 
-* Technology 1
-  * Tech 1 subitem
-* Technology 2
-* .
-* .
-* .
-* Technology N
+* PHP
+* JAVACRIPT
+* CSS
+* C++
+* C#
+* Framework CODEIGNITER 2&3
+* Framework LARAVEL
+  
 
 ## Usage example
 
 Bring the best usages of your project.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+_For more examples and usage, please refer to the [Wiki][laravel]._
 
 ---
 
